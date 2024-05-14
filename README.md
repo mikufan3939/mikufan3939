@@ -10,6 +10,6 @@
 
 <div align="center"> 
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikufan3939&layout=compact&theme=catppuccin_mocha&custom_title="Most_Used") 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikufan3939&layout=compact&theme=catppuccin_mocha&custom_title=Most%20Used) 
   
 </div>

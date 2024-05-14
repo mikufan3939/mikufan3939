@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://imgur.com/lADuu1Q)]((https://github.com/mikufan3939))
+[![MasterHead](https://i.imgur.com/lADuu1Q.png)]((https://github.com/mikufan3939))
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikufan3939)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mikufan3939/mikufan3939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
